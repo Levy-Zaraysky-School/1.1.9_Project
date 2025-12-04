@@ -2,9 +2,9 @@ import turtle
 import time
 
 turtle.speed(5)
-turtle.fillcolor("Grey")
+turtle.fillcolor("Black")
 #turtle.hideturtle()
-turtle.pencolor("Grey")
+turtle.pencolor("Black")
 turtle.hideturtle()
 
 turtle.up()
@@ -44,7 +44,6 @@ turtle.goto(130,40)
 turtle.down()
 
 turtle.speed(0)
-turtle.pencolor("Grey")
 
 turtle.begin_fill() # Glass
 turtle.goto(150,60)
