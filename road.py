@@ -1,6 +1,6 @@
 import turtle
 screen = turtle.Screen()
-screen.setup(width=1000, height=600)
+screen.setup(width=600, height=600)
 Pai = turtle.Turtle()
 Pai.hideturtle()
 Pai.speed(0)
