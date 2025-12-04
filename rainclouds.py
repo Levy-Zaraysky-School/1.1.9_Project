@@ -6,6 +6,9 @@ painter.color("grey")
 painter.speed(0)
 painter.hideturtle()
 
+wn = trtl.Screen()
+wn.bgcolor("SlateBlue2")
+
 # Create the turtle named painter
 painter = trtl.Turtle()
 
